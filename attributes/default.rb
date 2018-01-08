@@ -1,5 +1,5 @@
 #api key attribute
-default[:Site24x7][:devicekey] = "YOUR_USER_DEVICE_KEY"
+default[:Site24x7][:devicekey] = "us_d234c1d9202bcda702c8fc0b4b37b75a9e3447fd"
 default[:Site24x7][:proxy] = ""
 
 #package identification
